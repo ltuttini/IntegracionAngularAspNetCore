@@ -3,6 +3,7 @@
 Los videos del meetup se encuentran publicados en youtube
 
 [Angular - Introduccion](https://www.youtube.com/watch?v=3RZgZ1rqRaU "Angular - Introduccion")
+
 [Integrando Angular con Asp.net Core](https://www.youtube.com/watch?v=-5hJg0lRmfo "Integrando Angular con Asp.net Core")
 
 Como prerequisito se debe tener instalado node.js
